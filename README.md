@@ -1,1 +1,0 @@
-whitelist/invite only
